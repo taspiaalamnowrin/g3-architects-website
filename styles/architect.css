@@ -1,9 +1,19 @@
 /* work sans font from google fonts */
 @import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;500;600;700;800&display=swap');
+ /* shared style */
 
 *{
     font-family: 'Work Sans', sans-serif;
 }
+
+.btn-primary{
+border-radius: 8px;
+color: #FFF;
+background: #FF900E;
+padding: 20px 25px;
+}
+
+
 
 /* header styles */
 header{
